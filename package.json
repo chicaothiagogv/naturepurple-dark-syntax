@@ -1,0 +1,17 @@
+{
+  "name": "naturepurple-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A simple dark purple theme based on One-dark-theme. All credits for this theme.",
+  "keywords": [
+    "dark",
+    "nature",
+    "purple",
+    "syntax"
+  ],
+  "repository": "https://github.com/chicaothiagogv/naturepurple-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
