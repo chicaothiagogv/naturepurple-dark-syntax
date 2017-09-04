@@ -9,7 +9,7 @@
     "purple",
     "syntax"
   ],
-  "repository": "https://github.com/chicaothiagogv/naturepurple-dark-syntax",
+  "repository": "https://github.com/fthiagogv/naturepurple-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
